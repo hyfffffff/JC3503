@@ -22,9 +22,9 @@ For this project, I analyzed two different datasets as part of the course requir
 
 ## Files
 
-- [Assignment Requirements (PDF)](link-to-JC3503_DMV_2023-2024_Assessment.pdf)
-- [Apartments Analysis (Jupyter Notebook)](link-to-apartments.ipynb)
-- [Student Records Analysis (Jupyter Notebook)](link-to-student_records.ipynb)
+- [Assignment Requirements (PDF)](JC3503_DMV_2023-2024_Assessment.pdf)
+- [Apartments Analysis (Jupyter Notebook)](apartments.ipynb)
+- [Student Records Analysis (Jupyter Notebook)](student_records.ipynb)
 
 ## Datasets
 
